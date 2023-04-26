@@ -1,0 +1,14 @@
+.grid-container{
+    display: grid;
+}
+
+.card{
+    position: relative;
+    left: 540px;
+    top: 40px;
+}
+
+.footer-pic{
+    margin-left: 10px;
+    margin-right: 25px;
+}
